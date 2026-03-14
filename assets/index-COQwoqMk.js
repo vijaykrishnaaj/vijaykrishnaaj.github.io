@@ -22678,7 +22678,7 @@ function C3() {
                                         maxHeight: "520px"
                                     },
                                     onError: e => {
-                                        e.target.src = "https://raw.githubusercontent.com/vijaykrishnaaj/portfolio/main/Sources/Profile.png"
+                                        e.target.src = "https://raw.githubusercontent.com/vijaykrishnaaj/portfolio/main/Sources/Profile1.png"
                                     }
                                 })]
                             })
